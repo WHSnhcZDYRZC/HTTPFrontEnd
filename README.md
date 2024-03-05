@@ -1,7 +1,7 @@
-# Vue 3 + Vite
+- # HTTP 前端工程
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+  - 后端工程地址：
+    - [https://github.com/WHSnhcZDYRZC/HUYU/tree/main/Server/HuYuNote/huyu-note-http2-demo](https://github.com/WHSnhcZDYRZC/HUYU/tree/main/Server/HuYuNote/huyu-note-http2-demo "https://github.com/WHSnhcZDYRZC/HUYU/tree/main/Server/HuYuNote/huyu-note-http2-demo")（HTTP2 升级）
+    - [https://github.com/WHSnhcZDYRZC/HUYU/tree/main/Server/HuYuNote/huyu-note-demo](https://github.com/WHSnhcZDYRZC/HUYU/tree/main/Server/HuYuNote/huyu-note-demo "https://github.com/WHSnhcZDYRZC/HUYU/tree/main/Server/HuYuNote/huyu-note-demo")（webSocket、SSE、跨域解决方案、通用格式传输）
+  - HTTP 缓存地址：[https://github.com/WHSnhcZDYRZC/HTTPCache](https://github.com/WHSnhcZDYRZC/HTTPCache "https://github.com/WHSnhcZDYRZC/HTTPCache")
 
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
